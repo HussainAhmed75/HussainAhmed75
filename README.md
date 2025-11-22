@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @HussainAhmed75
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on improve AI and make it more flexible
-- 📫 How to reach me IG:_hussian_22.....WA:01011164977
+👋 Hi, I'm Hussain Ahmed  
+🎓 Computer Science Graduate  
+🤖 AI & Data Analysis Track  
+⚡ Robotics & Embedded Systems Enthusiast  
+📊 Digital Marketing & E-commerce (Side Track)
 
-<!---
-HussainAhmed75/HussainAhmed75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏆 CPC Participant (500+ problems solved)  
+🤿 Electrical Leader - OIROV Robotics Team  
+🧠 Graduation Project: Dr.AI (AI Medical Assistant)  
+📈 Passionate about data-driven solutions & intelligent systems  
+
+📫 Contact:  
+Email: hrfy330@gmail.com  
+WhatsApp: +201011164977
