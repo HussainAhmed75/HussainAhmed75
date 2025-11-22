@@ -244,9 +244,8 @@ print("⚡ Status: READY TO INNOVATE!")
 
 ### 💻 CODING DISTRIBUTION 💻
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HussainAhmed75&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&layout=compact" width="49%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussainAhmed75&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HussainAhmed75&theme=tokyonight" width="49%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -398,14 +397,23 @@ Next_Goals:
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> CODING ACTIVITY
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> CODING PHILOSOPHY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HussainAhmed75&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&layout=compact" width="49%" />
+### 💻 MY DEVELOPMENT APPROACH 💻
 
-<!--START_SECTION:wkatime-->
-<!--END_SECTION:wkatime-->
+```javascript
+const developmentStyle = {
+    mindset: "Growth Mindset 🚀",
+    approach: "Problem Solver 🧩",
+    style: "Clean Code Advocate 📝",
+    learning: "Continuous Learning 📚",
+    collaboration: "Team Player 🤝"
+};
+
+console.log("Code with passion, debug with patience! 💙");
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -510,15 +518,19 @@ Next_Goals:
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9b88cb3-f2dc-4f49-935f-d68b2653bb19.png" width="30" /> CONTRIBUTION SNAKE
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9b88cb3-f2dc-4f49-935f-d68b2653bb19.png" width="30" /> CONTRIBUTION GRAPH
 
 <div align="center">
+
+### 📊 MY GITHUB JOURNEY 📊
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussainAhmed75/HussainAhmed75/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussainAhmed75/HussainAhmed75/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HussainAhmed75/HussainAhmed75/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 💡 Every commit is a step towards innovation! 💡
 
 </div>
 
