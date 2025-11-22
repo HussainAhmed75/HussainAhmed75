@@ -1,113 +1,55 @@
-<h1 align="center">⚡ Hussain Ahmed ⚡</h1>
+# 👋 Hello! I'm Hussain Ahmed, IT Engineer ⚙️
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=AI+%26+Data+Analysis+Engineer;Machine+Learning+Specialist;Robotics+%26+Embedded+Systems+Leader;Digital+Marketing+Side+Track;Turning+Data+Into+Intelligent+Solutions" alt="Typing Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
-</p>
+### Robotics Enthusiast | Embedded Systems Developer | Computer Science Graduate
 
 ---
 
-## 🧠 WHO AM I?
+## 💡 About Me
 
-🚀 Computer Science Graduate  
-🤖 Main Track: **AI & Data Analysis**  
-⚡ Robotics & Embedded Systems Enthusiast  
-📊 Digital Marketing & E-commerce (Side Track)
+[cite_start]I am a highly motivated Computer Science graduate [cite: 5, 28] [cite_start]with a strong foundation and hands-on experience in cutting-edge technology domains like robotics, embedded systems, and competitive problem-solving[cite: 5]. [cite_start]My core passion lies in AI development and leveraging innovative technological solutions to positively impact people's lives[cite: 11].
 
-I design intelligent systems, analyze complex data, and build smart solutions that solve real-world problems. My work focuses on merging AI, analytics, and engineering approaches to create technologies that are impactful, scalable, and efficient.
-
----
-
-## 🏆 Achievements & Leadership
-
-🎯 Solved **500+ algorithmic problems**  
-🥇 Participated in **ECPC twice – Ranked 14th nationwide**  
-🤿 Electrical Team Leader – **OIROV Robotics Team**  
-🏅 MATE ROV Competition Award – *No Pain, No Gain*  
-🧠 Graduation Project: **Dr.AI – Intelligent Medical Assistant**  
-🛠 Smart Stick for Blind using Arduino & Sensor Fusion  
+* [cite_start]**Academic Focus:** Bachelor's Degree in Computer Science[cite: 28].
+* [cite_start]**Key Project:** Led the development of the "Dr.Al- Al Medical Assistant" Graduation Project, earning an **Excellent** grade[cite: 32].
+* [cite_start]**Experience:** Recently completed an IT Support Internship at Porto Matrouh (Amer Group)[cite: 10, 13].
 
 ---
 
-## 💻 TECH UNIVERSE
+## 🏆 Technical Core & Achievements
 
-### 🧠 AI & DATA
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
-</p>
+I specialize in integrating hardware and software to solve complex, real-world problems.
 
-### 🤖 ROBOTICS
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
-</p>
-
-### 🌐 DIGITAL MARKETING (Side Track)
-<p>
-<img src="https://img.shields.io/badge/SEO-232F3E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=googleads"/>
-<img src="https://img.shields.io/badge/Social Media Marketing-E4405F?style=for-the-badge"/>
-</p>
+| Category | Achievement Highlights |
+| :--- | :--- |
+| **Robotics & Embedded Systems** | * Developed a **Smart Stick for the visually impaired** using Arduino, ultrasonic/water level sensors, and a buzzer for alerts[cite: 6]. * [cite_start]Promoted to **Electrical Team Leader** within the OIROV robotics team, gaining strong knowledge in PCB design, physics, and embedded systems. |
+| **Competitive Programming** | * [cite_start]Participated in multiple CPC competitions at university and national levels[cite: 7]. * Solved **over 500 algorithmic problems**[cite: 7]. |
+| **MATE ROV Competition** | * [cite_start]Contributed to building an underwater robot with the OIROV team that qualified for the MATE ROV competition at the Arab Academy[cite: 8]. * [cite_start]Awarded the **"No Pain, No Gain"** award[cite: 8, 36]. |
 
 ---
 
-## 📊 GITHUB POWER STATUS
+## 🛠️ My Tech Toolkit (Skills)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HussainAhmed75&show_icons=true&theme=radical&border_radius=15" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAhmed75&theme=radical&border_radius=15" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HussainAhmed75&theme=radical&margin-w=10" />
-</p>
+| Category | Skills & Expertise |
+| :--- | :--- |
+| **Programming** | [cite_start]Python Programming [cite: 39] |
+| **Hardware & Embedded** | [cite_start]Embedded Systems (Arduino, Sensors) [cite: 40][cite_start], PCB Design & Circuit Analysis [cite: 41] |
+| **Concepts** | [cite_start]AI & Machine Learning Basics [cite: 42][cite_start], Problem Solving [cite: 43] |
+| **IT & Business** | [cite_start]IT Support & Troubleshooting [cite: 44][cite_start], Digital Marketing Fundamentals [cite: 45] |
 
 ---
 
-## 🚀 CURRENT FOCUS
+## ✨ Dynamic Visuals & Animations (The Attractive Part)
 
-🔹 Machine Learning & Deep Learning  
-🔹 Data Analytics & Visualization  
-🔹 Intelligent Recommendation Systems  
-🔹 AI in Healthcare Applications  
-🔹 Predictive Modeling & Decision Support  
+To make your GitHub profile truly attractive and dynamic, use these code snippets. **These will automatically update** with your current GitHub activity!
 
----
+### 📊 GitHub Stats & Streaks
 
-## 🧬 PROJECT PHILOSOPHY
+Replace `HUSSAIN-GITHUB-USERNAME` with your actual username in the URLs below:
 
-> "Data is not just numbers.  
-> It's the blueprint of intelligence."
+```markdown
+### 📈 My GitHub Activity Snapshot
 
----
+[![Hussain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HUSSAIN-GITHUB-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/HUSSAIN-GITHUB-USERNAME)
 
-## 🌍 CONNECT WITH ME
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSSAIN-GITHUB-USERNAME&layout=compact&theme=dark)](https://github.com/HUSSAIN-GITHUB-USERNAME)
 
-<p align="center">
-<a href="mailto:hrfy330@gmail.com">
-<img src="https://img.shields.io/badge/Email-Connect-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://wa.me/201011164977">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
-</a>
-
-<a href="https://instagram.com/hussian_22">
-<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
-
----
-
-## ⚙ LIVE SYSTEM STATUS
-``AI Engine: ONLINE ✅``  
-``Data Core: Optimized ✅``  
-``Learning Mode: ACTIVATED ✅``  
-
----
-
-<p align="center">
-🔥 Built with Passion | AI • Data • Innovation 🔥  
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.maxamier.dev/?user=HUSSAIN-GITHUB-USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
