@@ -1,82 +1,113 @@
-# 🚀 Hussain Ahmed | AI & Data Analysis Engineer
+<h1 align="center">⚡ Hussain Ahmed ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analysis+Specialist;Robotics+%26+Embedded+Systems+Enthusiast;Digital+Marketing+%7C+Side+Track;Building+Smart+Data-Driven+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=AI+%26+Data+Analysis+Engineer;Machine+Learning+Specialist;Robotics+%26+Embedded+Systems+Leader;Digital+Marketing+Side+Track;Turning+Data+Into+Intelligent+Solutions" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 WHO AM I?
 
-🎓 Computer Science Graduate  
-🤖 Main Track: AI & Data Analysis  
+🚀 Computer Science Graduate  
+🤖 Main Track: **AI & Data Analysis**  
 ⚡ Robotics & Embedded Systems Enthusiast  
 📊 Digital Marketing & E-commerce (Side Track)
 
-I am passionate about building intelligent systems and data-driven solutions that solve real-world problems. I combine strong problem-solving skills with hands-on experience in robotics, AI, and analytics to create impactful technologies.
+I design intelligent systems, analyze complex data, and build smart solutions that solve real-world problems. My work focuses on merging AI, analytics, and engineering approaches to create technologies that are impactful, scalable, and efficient.
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Achievements & Leadership
 
-- 🧩 Solved 500+ algorithmic problems  
-- 🥇 Participated in ECPC twice – Ranked 14th nationwide  
-- 🤿 Electrical Leader – OIROV Robotics Team  
-- 🏅 MATE ROV Competition – "No Pain, No Gain" Award  
-- 🧠 Graduation Project: Dr.AI – AI Medical Assistant  
-- 🛠 Smart Stick for Blind using Arduino & Sensors  
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
-### 🤖 Robotics & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge)
-
-### 📢 Digital Marketing (Side Track)
-![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads)
-![Social Media](https://img.shields.io/badge/Social%20Media%20Marketing-E4405F?style=for-the-badge)
+🎯 Solved **500+ algorithmic problems**  
+🥇 Participated in **ECPC twice – Ranked 14th nationwide**  
+🤿 Electrical Team Leader – **OIROV Robotics Team**  
+🏅 MATE ROV Competition Award – *No Pain, No Gain*  
+🧠 Graduation Project: **Dr.AI – Intelligent Medical Assistant**  
+🛠 Smart Stick for Blind using Arduino & Sensor Fusion  
 
 ---
 
-## 📈 GitHub Stats
+## 💻 TECH UNIVERSE
+
+### 🧠 AI & DATA
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+</p>
+
+### 🤖 ROBOTICS
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
+</p>
+
+### 🌐 DIGITAL MARKETING (Side Track)
+<p>
+<img src="https://img.shields.io/badge/SEO-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=googleads"/>
+<img src="https://img.shields.io/badge/Social Media Marketing-E4405F?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GITHUB POWER STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HussainAhmed75&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAhmed75&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HussainAhmed75&show_icons=true&theme=radical&border_radius=15" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAhmed75&theme=radical&border_radius=15" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HussainAhmed75&theme=radical&margin-w=10" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 CURRENT FOCUS
 
-- AI & Machine Learning Models  
-- Data Analysis & Visualization  
-- Intelligent Medical Systems  
-- AI-driven Decision Support Systems  
+🔹 Machine Learning & Deep Learning  
+🔹 Data Analytics & Visualization  
+🔹 Intelligent Recommendation Systems  
+🔹 AI in Healthcare Applications  
+🔹 Predictive Modeling & Decision Support  
 
 ---
 
-## 📫 Contact Me
+## 🧬 PROJECT PHILOSOPHY
 
-<p align="left">
-  <a href="mailto:hrfy330@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hrfy330@gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://wa.me/201011164977">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
-  </a>
+> "Data is not just numbers.  
+> It's the blueprint of intelligence."
+
+---
+
+## 🌍 CONNECT WITH ME
+
+<p align="center">
+<a href="mailto:hrfy330@gmail.com">
+<img src="https://img.shields.io/badge/Email-Connect-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/201011164977">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://instagram.com/hussian_22">
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram"/>
+</a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> I believe AI + Data can change the world, one solution at a time.
+## ⚙ LIVE SYSTEM STATUS
+``AI Engine: ONLINE ✅``  
+``Data Core: Optimized ✅``  
+``Learning Mode: ACTIVATED ✅``  
+
+---
+
+<p align="center">
+🔥 Built with Passion | AI • Data • Innovation 🔥  
+</p>
