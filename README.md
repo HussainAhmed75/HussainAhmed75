@@ -55,7 +55,6 @@ class HussainAhmed:
             "Deep Learning",
             "Data Science",
             "Robotics",
-            "Embedded Systems"
         ]
         self.status = "Building the Future 🚀"
         self.coffee_consumed = float('inf')  # ☕☕☕
